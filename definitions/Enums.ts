@@ -1,4 +1,6 @@
-export const enum SampleEnum {
-    Item1 = 1,
-    Item2 = 2
+namespace Enums {
+    export const enum SampleEnum {
+        Item1 = 1,
+        Item2 = 2
+    }
 }
